@@ -1,6 +1,6 @@
 # A_Movie_Recommendation_System 🎬
 
-This project is a content-based movie recommendation system built using Python. It suggests similar movies based on user input, leveraging metadata like genres, cast, and crew from the MovieLens dataset.
+This project is a content-based movie recommendation system built using Python. It suggests similar movies based on user input, leveraging metadata like genres, cast, and crew from the dataset.
 
 ## 🚀 Features
 
